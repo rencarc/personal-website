@@ -129,7 +129,7 @@ export const me = {
       links: [
         {
           name: "Website",
-          uri: "https://croissant.one",
+          uri: "https://zhenxuportfolio.vercel.app/",
         }
       ],
       image: "/assets/croissant.svg",

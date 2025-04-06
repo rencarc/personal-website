@@ -181,4 +181,4 @@ const Social = ({
   );
 };
 
-export default Hero; 
+export default Hero;   
